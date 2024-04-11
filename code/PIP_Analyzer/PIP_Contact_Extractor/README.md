@@ -12,7 +12,7 @@ paddlepaddle == 2.4.1
 
 ### Training and Testing
 
-Code for training and testing is in [jupyter notebook]().
+Code for training and testing is in [ner_train.py](./ner_train.py).
 
 ### Predict
 Before running, please fill in the model path in `settings.py`.
